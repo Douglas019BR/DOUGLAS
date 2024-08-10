@@ -5,19 +5,17 @@
 
 
 <details>
-  <summary style="margin-bottom: 1rem; margin-top: 1rem;"> GitHub Stats :chart_with_upwards_trend:</summary>
+  <summary style="margin-bottom: 1rem; margin-top: 1rem;">GitHub Stats :chart_with_upwards_trend:</summary>
 
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api?username=Douglas019BR&theme=slateorange&layout=compact&lang_count=5&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github stats](https://github-readme-stats.vercel.app/api?username=Douglas019BR&theme=slateorange&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
 
 #### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/douglassermarini/) :point_left:
 
-#### Contributions to Open Source Projects
-
-- [![Icon](https://github.com/0x7c13/Notepads/blob/master/src/Notepads/Assets/GameBar/Icons/icon.targetsize-16.png) Notepads](https://github.com/0x7c13/Notepads)
 
 #### Languages and Tools
 
