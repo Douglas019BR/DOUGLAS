@@ -1,5 +1,7 @@
 ### Hi, Douglas here 👋👨‍💻
 
+I`m from Brazil 🇧🇷
+
 📚 Degree in Physics from the University of Campinas.  
 📚 Postgraduate degree in Software Engineering from the University of Campinas.
 
